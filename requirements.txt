@@ -1,0 +1,4 @@
+numpy
+streamlit
+streamlit-chat==0.0.2.1
+torchvision
