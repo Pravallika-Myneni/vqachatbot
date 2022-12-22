@@ -1,0 +1,747 @@
+
+---------------------
+date: 2022-11-28 01:58:36
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 0.jpg
+  1.log p = -7.253 '<start> a brown and white cat sitting in the grass <end>'
+  2.log p = -7.977 '<start> a close up of a cat in a yard <end>'
+  3.log p = -8.683 '<start> a close up of a cat in a grass field <end>'
+  4.log p = -9.070 '<start> a close up of a cat in a grassy area <end>'
+  5.log p = -11.958 '<start> a close up of a cat in a yard with a ball <end>'
+
+file name: 1.jpg
+  1.log p = -3.618 '<start> a red double decker bus driving down a street <end>'
+  2.log p = -4.489 '<start> a red double decker bus driving down the street <end>'
+  3.log p = -5.184 '<start> a red double decker bus on a city street <end>'
+  4.log p = -5.299 '<start> a red double decker bus driving down a city street <end>'
+  5.log p = -5.871 '<start> a red and white double decker bus driving down a street <end>'
+
+file name: 2.jpg
+  1.log p = -6.072 '<start> a group of people sitting around a table eating food <end>'
+  2.log p = -6.116 '<start> a group of people sitting around a table <end>'
+  3.log p = -6.383 '<start> a group of people sitting at a table eating food <end>'
+  4.log p = -6.479 '<start> a group of people that are sitting around a table <end>'
+  5.log p = -7.104 '<start> a group of people sitting around a table eating pizza <end>'
+
+file name: 3.jpg
+  1.log p = -3.822 '<start> a man riding a wave on top of a surfboard <end>'
+  2.log p = -4.239 '<start> a man riding a wave on a surfboard <end>'
+  3.log p = -4.512 '<start> a man riding a surfboard on a wave in the ocean <end>'
+  4.log p = -4.888 '<start> a man on a surfboard riding a wave <end>'
+  5.log p = -5.094 '<start> a man on a surf board riding a wave <end>'
+
+file name: raytrace.png
+  1.log p = -8.772 '<start> a birthday cake that is on a table <end>'
+  2.log p = -9.127 '<start> a birthday cake that has congratulations written on it <end>'
+  3.log p = -9.655 '<start> a birthday cake shaped like a birthday cake <end>'
+  4.log p = -10.097 '<start> a birthday cake that is on the ground <end>'
+  5.log p = -16.358 '<start> a birthday cake shaped like a birthday cake with a banner <end>'
+
+---------------------
+date: 2022-11-28 02:13:30
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 0.jpg
+  1.log p = -7.253 '<start> a brown and white cat sitting in the grass <end>'
+  2.log p = -7.977 '<start> a close up of a cat in a yard <end>'
+  3.log p = -8.683 '<start> a close up of a cat in a grass field <end>'
+  4.log p = -9.070 '<start> a close up of a cat in a grassy area <end>'
+  5.log p = -11.958 '<start> a close up of a cat in a yard with a ball <end>'
+
+file name: 1.jpg
+  1.log p = -3.618 '<start> a red double decker bus driving down a street <end>'
+  2.log p = -4.489 '<start> a red double decker bus driving down the street <end>'
+  3.log p = -5.184 '<start> a red double decker bus on a city street <end>'
+  4.log p = -5.299 '<start> a red double decker bus driving down a city street <end>'
+  5.log p = -5.871 '<start> a red and white double decker bus driving down a street <end>'
+
+file name: 2.jpg
+  1.log p = -6.072 '<start> a group of people sitting around a table eating food <end>'
+  2.log p = -6.116 '<start> a group of people sitting around a table <end>'
+  3.log p = -6.383 '<start> a group of people sitting at a table eating food <end>'
+  4.log p = -6.479 '<start> a group of people that are sitting around a table <end>'
+  5.log p = -7.104 '<start> a group of people sitting around a table eating pizza <end>'
+
+file name: 3.jpg
+  1.log p = -3.822 '<start> a man riding a wave on top of a surfboard <end>'
+  2.log p = -4.239 '<start> a man riding a wave on a surfboard <end>'
+  3.log p = -4.512 '<start> a man riding a surfboard on a wave in the ocean <end>'
+  4.log p = -4.888 '<start> a man on a surfboard riding a wave <end>'
+  5.log p = -5.094 '<start> a man on a surf board riding a wave <end>'
+
+file name: adorable_dog.jpg
+  1.log p = -7.073 '<start> a close up of a dog on a leash <end>'
+  2.log p = -7.941 '<start> a close up of a dog wearing a collar <end>'
+  3.log p = -8.119 '<start> a close up of a dog in a room <end>'
+  4.log p = -8.201 '<start> a close up of a dog looking out of a window <end>'
+  5.log p = -8.915 '<start> a close up of a dog looking out of the window <end>'
+
+file name: raytrace.png
+  1.log p = -8.772 '<start> a birthday cake that is on a table <end>'
+  2.log p = -9.127 '<start> a birthday cake that has congratulations written on it <end>'
+  3.log p = -9.655 '<start> a birthday cake shaped like a birthday cake <end>'
+  4.log p = -10.097 '<start> a birthday cake that is on the ground <end>'
+  5.log p = -16.358 '<start> a birthday cake shaped like a birthday cake with a banner <end>'
+
+---------------------
+date: 2022-11-30 19:36:03
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 0.jpg
+  1.log p = -7.253 '<start> a brown and white cat sitting in the grass <end>'
+  2.log p = -7.977 '<start> a close up of a cat in a yard <end>'
+  3.log p = -8.683 '<start> a close up of a cat in a grass field <end>'
+  4.log p = -9.070 '<start> a close up of a cat in a grassy area <end>'
+  5.log p = -11.958 '<start> a close up of a cat in a yard with a ball <end>'
+
+file name: 1.jpg
+  1.log p = -3.618 '<start> a red double decker bus driving down a street <end>'
+  2.log p = -4.489 '<start> a red double decker bus driving down the street <end>'
+  3.log p = -5.184 '<start> a red double decker bus on a city street <end>'
+  4.log p = -5.299 '<start> a red double decker bus driving down a city street <end>'
+  5.log p = -5.871 '<start> a red and white double decker bus driving down a street <end>'
+
+file name: 2.jpg
+  1.log p = -6.072 '<start> a group of people sitting around a table eating food <end>'
+  2.log p = -6.116 '<start> a group of people sitting around a table <end>'
+  3.log p = -6.383 '<start> a group of people sitting at a table eating food <end>'
+  4.log p = -6.479 '<start> a group of people that are sitting around a table <end>'
+  5.log p = -7.104 '<start> a group of people sitting around a table eating pizza <end>'
+
+file name: 3.jpg
+  1.log p = -3.822 '<start> a man riding a wave on top of a surfboard <end>'
+  2.log p = -4.239 '<start> a man riding a wave on a surfboard <end>'
+  3.log p = -4.512 '<start> a man riding a surfboard on a wave in the ocean <end>'
+  4.log p = -4.888 '<start> a man on a surfboard riding a wave <end>'
+  5.log p = -5.094 '<start> a man on a surf board riding a wave <end>'
+
+file name: adorable_dog.jpg
+  1.log p = -7.073 '<start> a close up of a dog on a leash <end>'
+  2.log p = -7.941 '<start> a close up of a dog wearing a collar <end>'
+  3.log p = -8.119 '<start> a close up of a dog in a room <end>'
+  4.log p = -8.201 '<start> a close up of a dog looking out of a window <end>'
+  5.log p = -8.915 '<start> a close up of a dog looking out of the window <end>'
+
+file name: raytrace.png
+  1.log p = -8.772 '<start> a birthday cake that is on a table <end>'
+  2.log p = -9.127 '<start> a birthday cake that has congratulations written on it <end>'
+  3.log p = -9.655 '<start> a birthday cake shaped like a birthday cake <end>'
+  4.log p = -10.097 '<start> a birthday cake that is on the ground <end>'
+  5.log p = -16.358 '<start> a birthday cake shaped like a birthday cake with a banner <end>'
+
+---------------------
+date: 2022-11-30 20:07:51
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 0.jpg
+
+---------------------
+date: 2022-11-30 20:08:35
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 0.jpg
+
+file name: 1.jpg
+
+file name: 2.jpg
+
+file name: 3.jpg
+
+file name: adorable_dog.jpg
+
+file name: raytrace.png
+
+---------------------
+date: 2022-11-30 20:09:17
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 0.jpg
+
+file name: 1.jpg
+
+file name: 2.jpg
+
+file name: 3.jpg
+
+file name: adorable_dog.jpg
+
+file name: raytrace.png
+
+---------------------
+date: 2022-11-30 20:09:32
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 0.jpg
+
+file name: 1.jpg
+
+file name: 2.jpg
+
+file name: 3.jpg
+
+file name: adorable_dog.jpg
+
+file name: raytrace.png
+
+---------------------
+date: 2022-11-30 20:10:39
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-11-30 20:12:20
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-11-30 20:13:14
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-11-30 20:13:55
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-11-30 20:15:17
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-11-30 20:17:19
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-12-20 15:34:16
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-12-20 15:39:14
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-12-20 15:47:54
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-12-20 15:49:43
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-12-20 15:51:05
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-12-20 15:51:54
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-12-20 15:52:07
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+---------------------
+date: 2022-12-20 15:57:56
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+file name: Miami.jpeg
+
+---------------------
+date: 2022-12-20 20:32:31
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+file name: Miami.jpeg
+
+---------------------
+date: 2022-12-20 20:33:17
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+file name: Miami.jpeg
+
+---------------------
+date: 2022-12-20 20:51:22
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+file name: Miami.jpeg
+
+---------------------
+date: 2022-12-20 20:51:38
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+file name: Miami.jpeg
+
+---------------------
+date: 2022-12-20 20:59:22
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 2.jpg
+
+file name: Miami.jpeg
+
+---------------------
+date: 2022-12-20 21:01:49
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: test2017
+
+---------------------
+date: 2022-12-20 21:02:44
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 000000000009.jpg
+
+file name: 000000000025.jpg
+
+file name: 000000000030.jpg
+
+---------------------
+date: 2022-12-20 21:03:39
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 000000000009.jpg
+
+file name: 000000000025.jpg
+
+file name: 000000000030.jpg
+
+---------------------
+date: 2022-12-20 21:07:33
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 000000000009.jpg
+
+file name: 000000000025.jpg
+
+file name: 000000000030.jpg
+
+file name: 000000000034.jpg
+
+file name: 000000000036.jpg
+
+file name: 000000000042.jpg
+
+file name: 000000000049.jpg
+
+file name: 000000000061.jpg
+
+---------------------
+date: 2022-12-20 21:08:29
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 000000000009.jpg
+
+file name: 000000000025.jpg
+
+file name: 000000000030.jpg
+
+file name: 000000000034.jpg
+
+file name: 000000000036.jpg
+
+file name: 000000000042.jpg
+
+file name: 000000000049.jpg
+
+file name: 000000000061.jpg
+
+file name: 000000000064.jpg
+
+file name: 000000000071.jpg
+
+file name: 000000000072.jpg
+
+file name: 000000000073.jpg
+
+file name: 000000000074.jpg
+
+file name: 000000000077.jpg
+
+file name: 000000000078.jpg
+
+file name: 000000000081.jpg
+
+file name: 000000000086.jpg
+
+---------------------
+date: 2022-12-20 21:09:37
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 000000000009.jpg
+
+---------------------
+date: 2022-12-20 21:10:28
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 000000000009.jpg
+
+file name: 000000000025.jpg
+
+file name: 000000000030.jpg
+
+file name: 000000000034.jpg
+
+file name: 000000000036.jpg
+
+file name: 000000000042.jpg
+
+file name: 000000000049.jpg
+
+file name: 000000000061.jpg
+
+file name: 000000000064.jpg
+
+file name: 000000000071.jpg
+
+file name: 000000000072.jpg
+
+file name: 000000000073.jpg
+
+file name: 000000000074.jpg
+
+file name: 000000000077.jpg
+
+file name: 000000000078.jpg
+
+file name: 000000000081.jpg
+
+file name: 000000000086.jpg
+
+file name: 000000000089.jpg
+
+file name: 000000000092.jpg
+
+file name: 000000000094.jpg
+
+file name: 000000000109.jpg
+
+---------------------
+date: 2022-12-20 21:11:02
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+file name: 000000000009.jpg
+
+file name: 000000000025.jpg
+
+file name: 000000000030.jpg
+
+file name: 000000000034.jpg
+
+file name: 000000000036.jpg
+
+file name: 000000000042.jpg
+
+file name: 000000000049.jpg
+
+file name: 000000000061.jpg
+
+file name: 000000000064.jpg
+
+file name: 000000000071.jpg
+
+file name: 000000000072.jpg
+
+file name: 000000000073.jpg
+
+file name: 000000000074.jpg
+
+file name: 000000000077.jpg
+
+file name: 000000000078.jpg
+
+file name: 000000000081.jpg
+
+file name: 000000000086.jpg
+
+file name: 000000000089.jpg
+
+file name: 000000000092.jpg
+
+file name: 000000000094.jpg
+
+file name: 000000000109.jpg
+
+---------------------
+date: 2022-12-20 21:12:14
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 21:28:25
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 21:28:36
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 21:29:08
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 21:29:42
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 21:30:01
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 21:31:07
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 22:04:33
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 22:05:34
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 22:05:56
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 22:06:08
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 22:08:10
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-20 22:08:36
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 15:58:46
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 15:59:28
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:00:33
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:02:01
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:10:02
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:13:08
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:14:03
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:15:27
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:15:54
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:16:50
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:17:28
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:19:09
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:20:56
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:21:49
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:23:30
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:24:54
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:27:46
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:28:52
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:30:02
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:32:27
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:37:32
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:39:02
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:40:22
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:41:28
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:42:04
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:43:32
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:44:04
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:46:16
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:46:54
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 16:48:21
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/image-captioning/vqachatbot/model/decoder-18-2-205.pth
+
+---------------------
+date: 2022-12-21 18:46:01
+encoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/codepush/vqachatbot/model/encoder-18-2-205.pth
+decoder model: /Users/kartikeya/Desktop/Courses/MachineLearning/Project/image_captioning/codepush/vqachatbot/model/decoder-18-2-205.pth

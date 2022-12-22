@@ -1,20 +1,23 @@
 import torch 
 import streamlit as st
 from streamlit_chat import message
+from captions import infer
 
 
 col1, col2 = st.columns( [0.25, 0.75])
 
 def get_image():
-    uploaded_img = st.file_uploader("Choose an image", type = ['png', 'jpg'])
+
+    uploaded_img = st.file_uploader("Choose an image", type = ['png', 'jpg', 'jpeg'])
     if uploaded_img is not None:
         img = uploaded_img.read()
         return img 
     else:
         return None
 
-def generate_image_caption(img):    
-    pass
+def generate_image_caption(img):
+    caption = infer(img)
+    return caption
 
 def get_question():
     input_text = st.text_input("Enter your question here","how many items are there", key="input")
@@ -32,6 +35,7 @@ if img:
     st.image(img)
 
     captions_generated = generate_image_caption(img)
+    print(captions_generated)
 
     with col1:
         qn = get_question()
